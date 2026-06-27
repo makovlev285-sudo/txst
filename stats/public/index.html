@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Texnonik Servers Stats</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns@3.0.0/dist/chartjs-adapter-date-fns.bundle.min.js"></script>
+</head>
+<body>
+  <header>
+    <div class="header-content">
+      <h1>📊 Texnonik Servers</h1>
+      <p class="subtitle">Статистика серверов DDNet</p>
+      <div id="last-update">Загрузка...</div>
+    </div>
+  </header>
+
+  <div class="main-layout">
+    <main class="charts-section">
+      <div id="server-select" class="server-select">
+        <!-- Кнопки серверов -->
+      </div>
+      
+      <div class="chart-container">
+        <canvas id="main-chart"></canvas>
+      </div>
+      
+      <div class="maps-bar-container">
+        <div class="maps-bar" id="maps-bar"></div>
+        <div class="maps-bar-labels" id="maps-bar-labels"></div>
+      </div>
+      
+      <div class="current-players" id="current-players">
+        <h3>👥 Игроки сейчас</h3>
+        <div class="players-list" id="players-list"></div>
+      </div>
+      
+      <div class="top-maps" id="top-maps">
+        <h3>🗺️ Самые популярные карты</h3>
+        <div class="maps-list" id="maps-list"></div>
+      </div>
+    </main>
+
+    <aside class="sidebar">
+      <div class="top-players-card">
+        <h2>🏆 Топ игроков</h2>
+        <div id="top-players-list" class="top-players-list">
+          <div class="loading">Загрузка...</div>
+        </div>
+      </div>
+    </aside>
+  </div>
+
+  <script src="dashboard.js"></script>
+</body>
+</html>

@@ -1,0 +1,7222 @@
+{
+  "144.31.16.180:8303": [
+    {
+      "time": "2026-06-27T17:22:57.403Z",
+      "players": 1,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T17:23:57.254Z",
+      "players": 1,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T17:24:57.273Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T17:25:57.536Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T17:26:57.553Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T17:27:57.755Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T17:28:26.626Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T17:29:26.356Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T17:30:26.372Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T17:31:26.354Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T17:32:26.460Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T17:32:34.066Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T17:33:33.921Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T17:34:33.888Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T17:34:59.048Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T17:35:59.006Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T17:36:59.093Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T17:37:59.131Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T17:38:54.368Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T17:39:54.145Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T17:40:54.260Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T17:40:56.544Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T17:41:56.555Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T17:42:56.704Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T17:43:41.302Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T17:44:41.698Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T17:45:30.460Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T17:46:30.456Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T17:47:31.092Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T17:48:31.602Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T17:49:31.571Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T17:50:31.772Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T17:51:31.668Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T17:51:39.510Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T17:52:39.510Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T17:53:39.528Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T17:54:39.584Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T17:55:39.586Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T17:55:52.478Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T17:56:53.131Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T17:57:52.145Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T17:58:09.306Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T17:59:09.269Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T18:00:10.711Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T18:01:09.206Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T18:02:09.351Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T18:02:20.040Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T18:03:19.996Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T18:04:20.519Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T18:04:25.863Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T18:05:25.811Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T18:06:25.794Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T18:07:26.172Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T18:08:16.240Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T18:09:16.226Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T18:10:16.230Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T18:11:16.294Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T18:12:04.631Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T18:13:05.977Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T18:13:24.884Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T18:14:24.847Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T18:15:24.849Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T18:21:57.917Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T18:22:57.865Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T18:23:57.963Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T18:24:57.952Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T18:25:57.912Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T18:26:57.930Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T18:27:58.018Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T18:28:57.916Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T18:29:58.267Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T18:30:57.916Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T18:31:57.964Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T18:32:58.033Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T18:33:57.970Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T18:34:57.995Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T18:35:59.408Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T18:36:57.958Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T18:37:58.075Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T18:38:58.010Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T18:39:58.023Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T18:40:58.419Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T18:41:58.087Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T18:42:58.086Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T18:44:04.061Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T18:44:58.095Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T18:45:58.135Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T18:46:58.193Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T18:47:58.133Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T18:48:58.062Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T18:49:58.080Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T18:50:58.138Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T18:51:58.260Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T18:52:58.141Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T18:53:58.110Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T18:54:58.128Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T18:55:58.254Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T18:56:58.262Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T18:57:58.212Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T18:58:58.186Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T18:59:58.242Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T19:00:58.193Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T19:01:58.257Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T19:03:15.525Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T19:04:15.186Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T19:05:15.657Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T19:06:15.268Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T19:08:42.892Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T19:09:42.990Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T19:10:42.858Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T19:11:42.958Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T19:12:42.968Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T19:13:42.946Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T19:14:42.940Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T19:15:43.078Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T19:16:43.070Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T19:17:42.965Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T19:20:01.892Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T19:21:01.843Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T19:22:01.908Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T19:23:01.804Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T19:24:01.895Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T19:25:01.911Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T19:28:02.037Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T19:29:01.943Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T19:30:02.110Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T19:31:01.870Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T19:32:01.942Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T19:33:02.036Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T19:34:01.955Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T19:35:02.192Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T19:36:02.114Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T19:37:02.033Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T19:38:02.831Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T19:39:02.036Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T19:40:02.065Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T19:41:02.040Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T19:42:02.009Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T19:43:02.091Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T19:44:02.132Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T19:45:01.994Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T19:46:02.071Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T19:47:02.103Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    },
+    {
+      "time": "2026-06-27T19:48:02.265Z",
+      "players": 0,
+      "map": "beyond_dreams_rocket_solo"
+    }
+  ],
+  "144.31.16.180:8304": [
+    {
+      "time": "2026-06-27T17:22:57.403Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T17:23:57.254Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T17:24:57.273Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T17:25:57.536Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T17:26:57.553Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T17:27:57.755Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T17:28:26.626Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T17:29:26.356Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T17:30:26.372Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T17:31:26.354Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T17:32:26.460Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T17:32:34.066Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T17:33:33.921Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T17:34:33.888Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T17:34:59.048Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T17:35:59.006Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T17:36:59.093Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T17:37:59.131Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T17:38:54.368Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T17:39:54.145Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T17:40:54.260Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T17:40:56.544Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T17:41:56.555Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T17:42:56.704Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T17:43:41.302Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T17:44:41.698Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T17:45:30.460Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T17:46:30.456Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T17:47:31.092Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T17:48:31.602Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T17:49:31.571Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T17:50:31.772Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T17:51:31.668Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T17:51:39.510Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T17:52:39.510Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T17:53:39.528Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T17:54:39.584Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T17:55:39.586Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T17:55:52.478Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T17:56:53.131Z",
+      "players": 1,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T17:57:52.145Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T17:58:09.306Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T17:59:09.269Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T18:00:10.711Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T18:01:09.206Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T18:02:09.351Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T18:02:20.040Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T18:03:19.996Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T18:04:20.519Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T18:04:25.863Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T18:05:25.811Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T18:06:25.794Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T18:07:26.172Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T18:08:16.240Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T18:09:16.226Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T18:10:16.230Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T18:11:16.294Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T18:12:04.631Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T18:13:05.977Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T18:13:24.884Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T18:14:24.847Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T18:15:24.849Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T18:21:57.917Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T18:22:57.865Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T18:23:57.963Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T18:24:57.952Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T18:25:57.912Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T18:26:57.930Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T18:27:58.018Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T18:28:57.916Z",
+      "players": 1,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T18:29:58.267Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T18:30:57.916Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T18:31:57.964Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T18:32:58.033Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T18:33:57.970Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T18:34:57.995Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T18:35:59.408Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T18:36:57.958Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T18:37:58.075Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T18:38:58.010Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T18:39:58.023Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T18:40:58.419Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T18:41:58.087Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T18:42:58.086Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T18:44:04.061Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T18:44:58.095Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T18:45:58.135Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T18:46:58.193Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T18:47:58.133Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T18:48:58.062Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T18:49:58.080Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T18:50:58.138Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T18:51:58.260Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T18:52:58.141Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T18:53:58.110Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T18:54:58.128Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T18:55:58.254Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T18:56:58.262Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T18:57:58.212Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T18:58:58.186Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T18:59:58.242Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T19:00:58.193Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T19:01:58.257Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T19:03:15.525Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T19:04:15.186Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T19:05:15.657Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T19:06:15.268Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T19:08:42.892Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T19:09:42.990Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T19:10:42.858Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T19:11:42.958Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T19:12:42.968Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T19:13:42.946Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T19:14:42.940Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T19:15:43.078Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T19:16:43.070Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T19:17:42.965Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T19:20:01.892Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T19:21:01.843Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T19:22:01.908Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T19:23:01.804Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T19:24:01.895Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T19:25:01.911Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T19:28:02.037Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T19:29:01.943Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T19:30:02.110Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T19:31:01.870Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T19:32:01.942Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T19:33:02.036Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T19:34:01.955Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T19:35:02.192Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T19:36:02.114Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T19:37:02.033Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T19:38:02.831Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T19:39:02.036Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T19:40:02.065Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T19:41:02.040Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T19:42:02.009Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T19:43:02.091Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T19:44:02.132Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T19:45:01.994Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T19:46:02.071Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T19:47:02.103Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    },
+    {
+      "time": "2026-06-27T19:48:02.265Z",
+      "players": 0,
+      "map": "Run_Snow_Wind"
+    }
+  ],
+  "144.31.16.180:8305": [
+    {
+      "time": "2026-06-27T17:22:57.403Z",
+      "players": 1,
+      "map": "run_yard"
+    },
+    {
+      "time": "2026-06-27T17:23:57.254Z",
+      "players": 1,
+      "map": "run_yard"
+    },
+    {
+      "time": "2026-06-27T17:24:57.273Z",
+      "players": 1,
+      "map": "Exotic"
+    },
+    {
+      "time": "2026-06-27T17:25:57.536Z",
+      "players": 1,
+      "map": "Exotic"
+    },
+    {
+      "time": "2026-06-27T17:26:57.553Z",
+      "players": 2,
+      "map": "Exotic"
+    },
+    {
+      "time": "2026-06-27T17:27:57.755Z",
+      "players": 2,
+      "map": "Exotic"
+    },
+    {
+      "time": "2026-06-27T17:28:26.626Z",
+      "players": 2,
+      "map": "Exotic"
+    },
+    {
+      "time": "2026-06-27T17:29:26.356Z",
+      "players": 3,
+      "map": "Exotic"
+    },
+    {
+      "time": "2026-06-27T17:30:26.372Z",
+      "players": 3,
+      "map": "Exotic"
+    },
+    {
+      "time": "2026-06-27T17:31:26.354Z",
+      "players": 3,
+      "map": "Exotic"
+    },
+    {
+      "time": "2026-06-27T17:32:26.460Z",
+      "players": 3,
+      "map": "Dustfall_sg_1"
+    },
+    {
+      "time": "2026-06-27T17:32:34.066Z",
+      "players": 3,
+      "map": "Dustfall_sg_1"
+    },
+    {
+      "time": "2026-06-27T17:33:33.921Z",
+      "players": 3,
+      "map": "Dustfall_sg_1"
+    },
+    {
+      "time": "2026-06-27T17:34:33.888Z",
+      "players": 3,
+      "map": "Dustfall_sg_1"
+    },
+    {
+      "time": "2026-06-27T17:34:59.048Z",
+      "players": 3,
+      "map": "Dustfall_sg_1"
+    },
+    {
+      "time": "2026-06-27T17:35:59.006Z",
+      "players": 3,
+      "map": "Dustfall_sg_1"
+    },
+    {
+      "time": "2026-06-27T17:36:59.093Z",
+      "players": 3,
+      "map": "Dustfall_sg_1"
+    },
+    {
+      "time": "2026-06-27T17:37:59.131Z",
+      "players": 3,
+      "map": "Dustfall_sg_1"
+    },
+    {
+      "time": "2026-06-27T17:38:54.368Z",
+      "players": 3,
+      "map": "Dustfall_sg_1"
+    },
+    {
+      "time": "2026-06-27T17:39:54.145Z",
+      "players": 3,
+      "map": "Dustfall_sg_1"
+    },
+    {
+      "time": "2026-06-27T17:40:54.260Z",
+      "players": 3,
+      "map": "Dustfall_sg_1"
+    },
+    {
+      "time": "2026-06-27T17:40:56.544Z",
+      "players": 3,
+      "map": "Dustfall_sg_1"
+    },
+    {
+      "time": "2026-06-27T17:41:56.555Z",
+      "players": 3,
+      "map": "Dustfall_sg_1"
+    },
+    {
+      "time": "2026-06-27T17:42:56.704Z",
+      "players": 3,
+      "map": "Dustfall_sg_1"
+    },
+    {
+      "time": "2026-06-27T17:43:41.302Z",
+      "players": 3,
+      "map": "Dustfall_sg_1"
+    },
+    {
+      "time": "2026-06-27T17:44:41.698Z",
+      "players": 3,
+      "map": "Dustfall_sg_1"
+    },
+    {
+      "time": "2026-06-27T17:45:30.460Z",
+      "players": 3,
+      "map": "Dustfall_sg_1"
+    },
+    {
+      "time": "2026-06-27T17:46:30.456Z",
+      "players": 3,
+      "map": "Dustfall_sg_1"
+    },
+    {
+      "time": "2026-06-27T17:47:31.092Z",
+      "players": 3,
+      "map": "Dustfall_sg_1"
+    },
+    {
+      "time": "2026-06-27T17:48:31.602Z",
+      "players": 3,
+      "map": "Dustfall_sg_1"
+    },
+    {
+      "time": "2026-06-27T17:49:31.571Z",
+      "players": 3,
+      "map": "Dustfall_sg_1"
+    },
+    {
+      "time": "2026-06-27T17:50:31.772Z",
+      "players": 3,
+      "map": "Dustfall_sg_1"
+    },
+    {
+      "time": "2026-06-27T17:51:31.668Z",
+      "players": 3,
+      "map": "Dustfall_sg_1"
+    },
+    {
+      "time": "2026-06-27T17:51:39.510Z",
+      "players": 3,
+      "map": "Dustfall_sg_1"
+    },
+    {
+      "time": "2026-06-27T17:52:39.510Z",
+      "players": 3,
+      "map": "Dustfall_sg_1"
+    },
+    {
+      "time": "2026-06-27T17:53:39.528Z",
+      "players": 3,
+      "map": "Dustfall_sg_1"
+    },
+    {
+      "time": "2026-06-27T17:54:39.584Z",
+      "players": 3,
+      "map": "Dustfall_sg_1"
+    },
+    {
+      "time": "2026-06-27T17:55:39.586Z",
+      "players": 3,
+      "map": "Dustfall_sg_1"
+    },
+    {
+      "time": "2026-06-27T17:55:52.478Z",
+      "players": 3,
+      "map": "Dustfall_sg_1"
+    },
+    {
+      "time": "2026-06-27T17:56:53.131Z",
+      "players": 3,
+      "map": "Dustfall_sg_1"
+    },
+    {
+      "time": "2026-06-27T17:57:52.145Z",
+      "players": 3,
+      "map": "Dustfall_sg_1"
+    },
+    {
+      "time": "2026-06-27T17:58:09.306Z",
+      "players": 3,
+      "map": "Dustfall_sg_1"
+    },
+    {
+      "time": "2026-06-27T17:59:09.269Z",
+      "players": 3,
+      "map": "Dustfall_sg_1"
+    },
+    {
+      "time": "2026-06-27T18:00:10.711Z",
+      "players": 3,
+      "map": "Dustfall_sg_1"
+    },
+    {
+      "time": "2026-06-27T18:01:09.206Z",
+      "players": 3,
+      "map": "Dustfall_sg_1"
+    },
+    {
+      "time": "2026-06-27T18:02:09.351Z",
+      "players": 3,
+      "map": "Dustfall_sg_1"
+    },
+    {
+      "time": "2026-06-27T18:02:20.040Z",
+      "players": 3,
+      "map": "Dustfall_sg_1"
+    },
+    {
+      "time": "2026-06-27T18:03:19.996Z",
+      "players": 3,
+      "map": "Dustfall_sg_1"
+    },
+    {
+      "time": "2026-06-27T18:04:20.519Z",
+      "players": 3,
+      "map": "Dustfall_sg_1"
+    },
+    {
+      "time": "2026-06-27T18:04:25.863Z",
+      "players": 3,
+      "map": "Dustfall_sg_1"
+    },
+    {
+      "time": "2026-06-27T18:05:25.811Z",
+      "players": 3,
+      "map": "Dustfall_sg_1"
+    },
+    {
+      "time": "2026-06-27T18:06:25.794Z",
+      "players": 3,
+      "map": "Dustfall_sg_1"
+    },
+    {
+      "time": "2026-06-27T18:07:26.172Z",
+      "players": 3,
+      "map": "Dustfall_sg_1"
+    },
+    {
+      "time": "2026-06-27T18:08:16.240Z",
+      "players": 3,
+      "map": "Dustfall_sg_1"
+    },
+    {
+      "time": "2026-06-27T18:09:16.226Z",
+      "players": 4,
+      "map": "Dustfall_sg_1"
+    },
+    {
+      "time": "2026-06-27T18:10:16.230Z",
+      "players": 3,
+      "map": "Dustfall_sg_1"
+    },
+    {
+      "time": "2026-06-27T18:11:16.294Z",
+      "players": 3,
+      "map": "Dustfall_sg_1"
+    },
+    {
+      "time": "2026-06-27T18:12:04.631Z",
+      "players": 3,
+      "map": "Dustfall_sg_1"
+    },
+    {
+      "time": "2026-06-27T18:13:05.977Z",
+      "players": 3,
+      "map": "Dustfall_sg_1"
+    },
+    {
+      "time": "2026-06-27T18:13:24.884Z",
+      "players": 3,
+      "map": "Dustfall_sg_1"
+    },
+    {
+      "time": "2026-06-27T18:14:24.847Z",
+      "players": 2,
+      "map": "Dustfall_sg_1"
+    },
+    {
+      "time": "2026-06-27T18:15:24.849Z",
+      "players": 2,
+      "map": "run_red"
+    },
+    {
+      "time": "2026-06-27T18:21:57.917Z",
+      "players": 3,
+      "map": "10rockets"
+    },
+    {
+      "time": "2026-06-27T18:22:57.865Z",
+      "players": 2,
+      "map": "10rockets"
+    },
+    {
+      "time": "2026-06-27T18:23:57.963Z",
+      "players": 2,
+      "map": "10rockets"
+    },
+    {
+      "time": "2026-06-27T18:24:57.952Z",
+      "players": 3,
+      "map": "10rockets"
+    },
+    {
+      "time": "2026-06-27T18:25:57.912Z",
+      "players": 3,
+      "map": "10rockets"
+    },
+    {
+      "time": "2026-06-27T18:26:57.930Z",
+      "players": 3,
+      "map": "10rockets"
+    },
+    {
+      "time": "2026-06-27T18:27:58.018Z",
+      "players": 3,
+      "map": "race 1"
+    },
+    {
+      "time": "2026-06-27T18:28:57.916Z",
+      "players": 3,
+      "map": "run_oldeaster"
+    },
+    {
+      "time": "2026-06-27T18:29:58.267Z",
+      "players": 1,
+      "map": "run_oldeaster"
+    },
+    {
+      "time": "2026-06-27T18:30:57.916Z",
+      "players": 2,
+      "map": "run_oldeaster"
+    },
+    {
+      "time": "2026-06-27T18:31:57.964Z",
+      "players": 2,
+      "map": "run_oldeaster"
+    },
+    {
+      "time": "2026-06-27T18:32:58.033Z",
+      "players": 2,
+      "map": "run_oldeaster"
+    },
+    {
+      "time": "2026-06-27T18:33:57.970Z",
+      "players": 4,
+      "map": "run_oldeaster"
+    },
+    {
+      "time": "2026-06-27T18:34:57.995Z",
+      "players": 4,
+      "map": "run_oldeaster"
+    },
+    {
+      "time": "2026-06-27T18:35:59.408Z",
+      "players": 2,
+      "map": "Default_Blue"
+    },
+    {
+      "time": "2026-06-27T18:36:57.958Z",
+      "players": 1,
+      "map": "Default_Blue"
+    },
+    {
+      "time": "2026-06-27T18:37:58.075Z",
+      "players": 1,
+      "map": "Default_Blue"
+    },
+    {
+      "time": "2026-06-27T18:38:58.010Z",
+      "players": 2,
+      "map": "Default_Blue"
+    },
+    {
+      "time": "2026-06-27T18:39:58.023Z",
+      "players": 2,
+      "map": "Default_Blue"
+    },
+    {
+      "time": "2026-06-27T18:40:58.419Z",
+      "players": 2,
+      "map": "Default_Blue"
+    },
+    {
+      "time": "2026-06-27T18:41:58.087Z",
+      "players": 3,
+      "map": "Default_Blue"
+    },
+    {
+      "time": "2026-06-27T18:42:58.086Z",
+      "players": 1,
+      "map": "Default_Blue"
+    },
+    {
+      "time": "2026-06-27T18:44:04.061Z",
+      "players": 0,
+      "map": "Default_Blue"
+    },
+    {
+      "time": "2026-06-27T18:44:58.095Z",
+      "players": 0,
+      "map": "Default_Blue"
+    },
+    {
+      "time": "2026-06-27T18:45:58.135Z",
+      "players": 0,
+      "map": "Default_Blue"
+    },
+    {
+      "time": "2026-06-27T18:46:58.193Z",
+      "players": 0,
+      "map": "Default_Blue"
+    },
+    {
+      "time": "2026-06-27T18:47:58.133Z",
+      "players": 0,
+      "map": "Default_Blue"
+    },
+    {
+      "time": "2026-06-27T18:48:58.062Z",
+      "players": 0,
+      "map": "Default_Blue"
+    },
+    {
+      "time": "2026-06-27T18:49:58.080Z",
+      "players": 0,
+      "map": "Default_Blue"
+    },
+    {
+      "time": "2026-06-27T18:50:58.138Z",
+      "players": 0,
+      "map": "Default_Blue"
+    },
+    {
+      "time": "2026-06-27T18:51:58.260Z",
+      "players": 0,
+      "map": "Default_Blue"
+    },
+    {
+      "time": "2026-06-27T18:52:58.141Z",
+      "players": 0,
+      "map": "Default_Blue"
+    },
+    {
+      "time": "2026-06-27T18:53:58.110Z",
+      "players": 0,
+      "map": "Default_Blue"
+    },
+    {
+      "time": "2026-06-27T18:54:58.128Z",
+      "players": 0,
+      "map": "Default_Blue"
+    },
+    {
+      "time": "2026-06-27T18:55:58.254Z",
+      "players": 0,
+      "map": "Default_Blue"
+    },
+    {
+      "time": "2026-06-27T18:56:58.262Z",
+      "players": 0,
+      "map": "Default_Blue"
+    },
+    {
+      "time": "2026-06-27T18:57:58.212Z",
+      "players": 0,
+      "map": "Default_Blue"
+    },
+    {
+      "time": "2026-06-27T18:58:58.186Z",
+      "players": 0,
+      "map": "Default_Blue"
+    },
+    {
+      "time": "2026-06-27T18:59:58.242Z",
+      "players": 0,
+      "map": "Default_Blue"
+    },
+    {
+      "time": "2026-06-27T19:00:58.193Z",
+      "players": 0,
+      "map": "Default_Blue"
+    },
+    {
+      "time": "2026-06-27T19:01:58.257Z",
+      "players": 0,
+      "map": "Default_Blue"
+    },
+    {
+      "time": "2026-06-27T19:03:15.525Z",
+      "players": 0,
+      "map": "Default_Blue"
+    },
+    {
+      "time": "2026-06-27T19:04:15.186Z",
+      "players": 0,
+      "map": "Default_Blue"
+    },
+    {
+      "time": "2026-06-27T19:05:15.657Z",
+      "players": 0,
+      "map": "Default_Blue"
+    },
+    {
+      "time": "2026-06-27T19:06:15.268Z",
+      "players": 0,
+      "map": "Default_Blue"
+    },
+    {
+      "time": "2026-06-27T19:08:42.892Z",
+      "players": 0,
+      "map": "Default_Blue"
+    },
+    {
+      "time": "2026-06-27T19:09:42.990Z",
+      "players": 0,
+      "map": "Default_Blue"
+    },
+    {
+      "time": "2026-06-27T19:10:42.858Z",
+      "players": 0,
+      "map": "Default_Blue"
+    },
+    {
+      "time": "2026-06-27T19:11:42.958Z",
+      "players": 0,
+      "map": "Default_Blue"
+    },
+    {
+      "time": "2026-06-27T19:12:42.968Z",
+      "players": 0,
+      "map": "Default_Blue"
+    },
+    {
+      "time": "2026-06-27T19:13:42.946Z",
+      "players": 0,
+      "map": "Default_Blue"
+    },
+    {
+      "time": "2026-06-27T19:14:42.940Z",
+      "players": 0,
+      "map": "Default_Blue"
+    },
+    {
+      "time": "2026-06-27T19:15:43.078Z",
+      "players": 0,
+      "map": "Default_Blue"
+    },
+    {
+      "time": "2026-06-27T19:16:43.070Z",
+      "players": 0,
+      "map": "Default_Blue"
+    },
+    {
+      "time": "2026-06-27T19:17:42.965Z",
+      "players": 0,
+      "map": "Default_Blue"
+    },
+    {
+      "time": "2026-06-27T19:20:01.892Z",
+      "players": 0,
+      "map": "Default_Blue"
+    },
+    {
+      "time": "2026-06-27T19:21:01.843Z",
+      "players": 0,
+      "map": "Default_Blue"
+    },
+    {
+      "time": "2026-06-27T19:22:01.908Z",
+      "players": 0,
+      "map": "Default_Blue"
+    },
+    {
+      "time": "2026-06-27T19:23:01.804Z",
+      "players": 0,
+      "map": "Default_Blue"
+    },
+    {
+      "time": "2026-06-27T19:24:01.895Z",
+      "players": 0,
+      "map": "Default_Blue"
+    },
+    {
+      "time": "2026-06-27T19:25:01.911Z",
+      "players": 0,
+      "map": "Default_Blue"
+    },
+    {
+      "time": "2026-06-27T19:28:02.037Z",
+      "players": 0,
+      "map": "Default_Blue"
+    },
+    {
+      "time": "2026-06-27T19:29:01.943Z",
+      "players": 0,
+      "map": "Default_Blue"
+    },
+    {
+      "time": "2026-06-27T19:30:02.110Z",
+      "players": 0,
+      "map": "Default_Blue"
+    },
+    {
+      "time": "2026-06-27T19:31:01.870Z",
+      "players": 0,
+      "map": "Default_Blue"
+    },
+    {
+      "time": "2026-06-27T19:32:01.942Z",
+      "players": 0,
+      "map": "Default_Blue"
+    },
+    {
+      "time": "2026-06-27T19:33:02.036Z",
+      "players": 0,
+      "map": "Default_Blue"
+    },
+    {
+      "time": "2026-06-27T19:34:01.955Z",
+      "players": 0,
+      "map": "Default_Blue"
+    },
+    {
+      "time": "2026-06-27T19:35:02.192Z",
+      "players": 0,
+      "map": "Default_Blue"
+    },
+    {
+      "time": "2026-06-27T19:36:02.114Z",
+      "players": 0,
+      "map": "Default_Blue"
+    },
+    {
+      "time": "2026-06-27T19:37:02.033Z",
+      "players": 0,
+      "map": "Default_Blue"
+    },
+    {
+      "time": "2026-06-27T19:38:02.831Z",
+      "players": 0,
+      "map": "Default_Blue"
+    },
+    {
+      "time": "2026-06-27T19:39:02.036Z",
+      "players": 0,
+      "map": "Default_Blue"
+    },
+    {
+      "time": "2026-06-27T19:40:02.065Z",
+      "players": 0,
+      "map": "Default_Blue"
+    },
+    {
+      "time": "2026-06-27T19:41:02.040Z",
+      "players": 0,
+      "map": "Default_Blue"
+    },
+    {
+      "time": "2026-06-27T19:42:02.009Z",
+      "players": 0,
+      "map": "Default_Blue"
+    },
+    {
+      "time": "2026-06-27T19:43:02.091Z",
+      "players": 0,
+      "map": "Default_Blue"
+    },
+    {
+      "time": "2026-06-27T19:44:02.132Z",
+      "players": 0,
+      "map": "Default_Blue"
+    },
+    {
+      "time": "2026-06-27T19:45:01.994Z",
+      "players": 0,
+      "map": "Default_Blue"
+    },
+    {
+      "time": "2026-06-27T19:46:02.071Z",
+      "players": 0,
+      "map": "Default_Blue"
+    },
+    {
+      "time": "2026-06-27T19:47:02.103Z",
+      "players": 0,
+      "map": "Default_Blue"
+    },
+    {
+      "time": "2026-06-27T19:48:02.265Z",
+      "players": 0,
+      "map": "Default_Blue"
+    }
+  ],
+  "144.31.16.180:8306": [
+    {
+      "time": "2026-06-27T17:22:57.403Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:23:57.254Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:24:57.273Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:25:57.536Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:26:57.553Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:27:57.755Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:28:26.626Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:29:26.356Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:30:26.372Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:31:26.354Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:32:26.460Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:32:34.066Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:33:33.921Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:34:33.888Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:34:59.048Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:35:59.006Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:36:59.093Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:37:59.131Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:38:54.368Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:39:54.145Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:40:54.260Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:40:56.544Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:41:56.555Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:42:56.704Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:43:41.302Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:44:41.698Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:45:30.460Z",
+      "players": 1,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:46:30.456Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:47:31.092Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:48:31.602Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:49:31.571Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:50:31.772Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:51:31.668Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:51:39.510Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:52:39.510Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:53:39.528Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:54:39.584Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:55:39.586Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:55:52.478Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:56:53.131Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:57:52.145Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:58:09.306Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:59:09.269Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:00:10.711Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:01:09.206Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:02:09.351Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:02:20.040Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:03:19.996Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:04:20.519Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:04:25.863Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:05:25.811Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:06:25.794Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:07:26.172Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:08:16.240Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:09:16.226Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:10:16.230Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:11:16.294Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:12:04.631Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:13:05.977Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:13:24.884Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:14:24.847Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:15:24.849Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:21:57.917Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:22:57.865Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:23:57.963Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:24:57.952Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:25:57.912Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:26:57.930Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:27:58.018Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:28:57.916Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:29:58.267Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:30:57.916Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:31:57.964Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:32:58.033Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:33:57.970Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:34:57.995Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:35:59.408Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:36:57.958Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:37:58.075Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:38:58.010Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:39:58.023Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:40:58.419Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:41:58.087Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:42:58.086Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:44:04.061Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:44:58.095Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:45:58.135Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:46:58.193Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:47:58.133Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:48:58.062Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:49:58.080Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:50:58.138Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:51:58.260Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:52:58.141Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:53:58.110Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:54:58.128Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:55:58.254Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:56:58.262Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:57:58.212Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:58:58.186Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:59:58.242Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T19:00:58.193Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T19:01:58.257Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T19:03:15.525Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T19:04:15.186Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T19:05:15.657Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T19:06:15.268Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T19:08:42.892Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T19:09:42.990Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T19:10:42.858Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T19:11:42.958Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T19:12:42.968Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T19:13:42.946Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T19:14:42.940Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T19:15:43.078Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T19:16:43.070Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T19:17:42.965Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T19:20:01.892Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T19:21:01.843Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T19:22:01.908Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T19:23:01.804Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T19:24:01.895Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T19:25:01.911Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T19:28:02.037Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T19:29:01.943Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T19:30:02.110Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T19:31:01.870Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T19:32:01.942Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T19:33:02.036Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T19:34:01.955Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T19:35:02.192Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T19:36:02.114Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T19:37:02.033Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T19:38:02.831Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T19:39:02.036Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T19:40:02.065Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T19:41:02.040Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T19:42:02.009Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T19:43:02.091Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T19:44:02.132Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T19:45:01.994Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T19:46:02.071Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T19:47:02.103Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T19:48:02.265Z",
+      "players": 0,
+      "map": "Fading Grove"
+    }
+  ],
+  "144.31.16.180:8307": [
+    {
+      "time": "2026-06-27T17:22:57.403Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T17:23:57.254Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T17:24:57.273Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T17:25:57.536Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T17:26:57.553Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T17:27:57.755Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T17:28:26.626Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T17:29:26.356Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T17:30:26.372Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T17:31:26.354Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T17:32:26.460Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T17:32:34.066Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T17:33:33.921Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T17:34:33.888Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T17:34:59.048Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T17:35:59.006Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T17:36:59.093Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T17:37:59.131Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T17:38:54.368Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T17:39:54.145Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T17:40:54.260Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T17:40:56.544Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T17:41:56.555Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T17:42:56.704Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T17:43:41.302Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T17:44:41.698Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T17:45:30.460Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T17:46:30.456Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T17:47:31.092Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T17:48:31.602Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T17:49:31.571Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T17:50:31.772Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T17:51:31.668Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T17:51:39.510Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T17:52:39.510Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T17:53:39.528Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T17:54:39.584Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T17:55:39.586Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T17:55:52.478Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T17:56:53.131Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T17:57:52.145Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T17:58:09.306Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T17:59:09.269Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T18:00:10.711Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T18:01:09.206Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T18:02:09.351Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T18:02:20.040Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T18:03:19.996Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T18:04:20.519Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T18:04:25.863Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T18:05:25.811Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T18:06:25.794Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T18:07:26.172Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T18:08:16.240Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T18:09:16.226Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T18:10:16.230Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T18:11:16.294Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T18:12:04.631Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T18:13:05.977Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T18:13:24.884Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T18:14:24.847Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T18:15:24.849Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T18:21:57.917Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T18:22:57.865Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T18:23:57.963Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T18:24:57.952Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T18:25:57.912Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T18:26:57.930Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T18:27:58.018Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T18:28:57.916Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T18:29:58.267Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T18:30:57.916Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T18:31:57.964Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T18:32:58.033Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T18:33:57.970Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T18:34:57.995Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T18:35:59.408Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T18:36:57.958Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T18:37:58.075Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T18:38:58.010Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T18:39:58.023Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T18:40:58.419Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T18:41:58.087Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T18:42:58.086Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T18:44:04.061Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T18:44:58.095Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T18:45:58.135Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T18:46:58.193Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T18:47:58.133Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T18:48:58.062Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T18:49:58.080Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T18:50:58.138Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T18:51:58.260Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T18:52:58.141Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T18:53:58.110Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T18:54:58.128Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T18:55:58.254Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T18:56:58.262Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T18:57:58.212Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T18:58:58.186Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T18:59:58.242Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T19:00:58.193Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T19:01:58.257Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T19:03:15.525Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T19:04:15.186Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T19:05:15.657Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T19:06:15.268Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T19:08:42.892Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T19:09:42.990Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T19:10:42.858Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T19:11:42.958Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T19:12:42.968Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T19:13:42.946Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T19:14:42.940Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T19:15:43.078Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T19:16:43.070Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T19:17:42.965Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T19:20:01.892Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T19:21:01.843Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T19:22:01.908Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T19:23:01.804Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T19:24:01.895Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T19:25:01.911Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T19:28:02.037Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T19:29:01.943Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T19:30:02.110Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T19:31:01.870Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T19:32:01.942Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T19:33:02.036Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T19:34:01.955Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T19:35:02.192Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T19:36:02.114Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T19:37:02.033Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T19:38:02.831Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T19:39:02.036Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T19:40:02.065Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T19:41:02.040Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T19:42:02.009Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T19:43:02.091Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T19:44:02.132Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T19:45:01.994Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T19:46:02.071Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T19:47:02.103Z",
+      "players": 0,
+      "map": "YARD"
+    },
+    {
+      "time": "2026-06-27T19:48:02.265Z",
+      "players": 0,
+      "map": "YARD"
+    }
+  ],
+  "144.31.16.180:8308": [
+    {
+      "time": "2026-06-27T17:22:57.403Z",
+      "players": 1,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T17:23:57.254Z",
+      "players": 1,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T17:24:57.273Z",
+      "players": 1,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T17:25:57.536Z",
+      "players": 1,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T17:26:57.553Z",
+      "players": 1,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T17:27:57.755Z",
+      "players": 1,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T17:28:26.626Z",
+      "players": 1,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T17:29:26.356Z",
+      "players": 0,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T17:30:26.372Z",
+      "players": 0,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T17:31:26.354Z",
+      "players": 0,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T17:32:26.460Z",
+      "players": 0,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T17:32:34.066Z",
+      "players": 0,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T17:33:33.921Z",
+      "players": 0,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T17:34:33.888Z",
+      "players": 0,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T17:34:59.048Z",
+      "players": 0,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T17:35:59.006Z",
+      "players": 0,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T17:36:59.093Z",
+      "players": 0,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T17:37:59.131Z",
+      "players": 0,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T17:38:54.368Z",
+      "players": 0,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T17:39:54.145Z",
+      "players": 0,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T17:40:54.260Z",
+      "players": 0,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T17:40:56.544Z",
+      "players": 0,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T17:41:56.555Z",
+      "players": 0,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T17:42:56.704Z",
+      "players": 0,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T17:43:41.302Z",
+      "players": 0,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T17:44:41.698Z",
+      "players": 0,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T17:45:30.460Z",
+      "players": 0,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T17:46:30.456Z",
+      "players": 0,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T17:47:31.092Z",
+      "players": 0,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T17:48:31.602Z",
+      "players": 0,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T17:49:31.571Z",
+      "players": 0,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T17:50:31.772Z",
+      "players": 0,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T17:51:31.668Z",
+      "players": 1,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T17:51:39.510Z",
+      "players": 1,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T17:52:39.510Z",
+      "players": 1,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T17:53:39.528Z",
+      "players": 0,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T17:54:39.584Z",
+      "players": 0,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T17:55:39.586Z",
+      "players": 0,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T17:55:52.478Z",
+      "players": 0,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T17:56:53.131Z",
+      "players": 0,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T17:57:52.145Z",
+      "players": 0,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T17:58:09.306Z",
+      "players": 0,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T17:59:09.269Z",
+      "players": 0,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T18:00:10.711Z",
+      "players": 0,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T18:01:09.206Z",
+      "players": 0,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T18:02:09.351Z",
+      "players": 0,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T18:02:20.040Z",
+      "players": 0,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T18:03:19.996Z",
+      "players": 0,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T18:04:20.519Z",
+      "players": 0,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T18:04:25.863Z",
+      "players": 0,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T18:05:25.811Z",
+      "players": 0,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T18:06:25.794Z",
+      "players": 0,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T18:07:26.172Z",
+      "players": 0,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T18:08:16.240Z",
+      "players": 0,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T18:09:16.226Z",
+      "players": 0,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T18:10:16.230Z",
+      "players": 0,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T18:11:16.294Z",
+      "players": 0,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T18:12:04.631Z",
+      "players": 0,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T18:13:05.977Z",
+      "players": 0,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T18:13:24.884Z",
+      "players": 0,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T18:14:24.847Z",
+      "players": 0,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T18:15:24.849Z",
+      "players": 0,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T18:21:57.917Z",
+      "players": 0,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T18:22:57.865Z",
+      "players": 0,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T18:23:57.963Z",
+      "players": 0,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T18:24:57.952Z",
+      "players": 0,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T18:25:57.912Z",
+      "players": 0,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T18:26:57.930Z",
+      "players": 0,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T18:27:58.018Z",
+      "players": 0,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T18:28:57.916Z",
+      "players": 0,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T18:29:58.267Z",
+      "players": 1,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T18:30:57.916Z",
+      "players": 1,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T18:31:57.964Z",
+      "players": 1,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T18:32:58.033Z",
+      "players": 1,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T18:33:57.970Z",
+      "players": 1,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T18:34:57.995Z",
+      "players": 1,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T18:35:59.408Z",
+      "players": 1,
+      "map": "chupa_run"
+    },
+    {
+      "time": "2026-06-27T18:36:57.958Z",
+      "players": 1,
+      "map": "run_halloween"
+    },
+    {
+      "time": "2026-06-27T18:37:58.075Z",
+      "players": 1,
+      "map": "run_halloween"
+    },
+    {
+      "time": "2026-06-27T18:38:58.010Z",
+      "players": 1,
+      "map": "run_halloween"
+    },
+    {
+      "time": "2026-06-27T18:39:58.023Z",
+      "players": 1,
+      "map": "run_halloween"
+    },
+    {
+      "time": "2026-06-27T18:40:58.419Z",
+      "players": 1,
+      "map": "run_halloween"
+    },
+    {
+      "time": "2026-06-27T18:41:58.087Z",
+      "players": 1,
+      "map": "run_halloween"
+    },
+    {
+      "time": "2026-06-27T18:42:58.086Z",
+      "players": 1,
+      "map": "run_halloween"
+    },
+    {
+      "time": "2026-06-27T18:44:04.061Z",
+      "players": 1,
+      "map": "run_halloween"
+    },
+    {
+      "time": "2026-06-27T18:44:58.095Z",
+      "players": 1,
+      "map": "Echo Run"
+    },
+    {
+      "time": "2026-06-27T18:45:58.135Z",
+      "players": 1,
+      "map": "Echo Run"
+    },
+    {
+      "time": "2026-06-27T18:46:58.193Z",
+      "players": 1,
+      "map": "Echo Run"
+    },
+    {
+      "time": "2026-06-27T18:47:58.133Z",
+      "players": 1,
+      "map": "Echo Run"
+    },
+    {
+      "time": "2026-06-27T18:48:58.062Z",
+      "players": 1,
+      "map": "Echo Run"
+    },
+    {
+      "time": "2026-06-27T18:49:58.080Z",
+      "players": 1,
+      "map": "Echo Run"
+    },
+    {
+      "time": "2026-06-27T18:50:58.138Z",
+      "players": 2,
+      "map": "Echo Run"
+    },
+    {
+      "time": "2026-06-27T18:51:58.260Z",
+      "players": 1,
+      "map": "Echo Run"
+    },
+    {
+      "time": "2026-06-27T18:52:58.141Z",
+      "players": 1,
+      "map": "Echo Run"
+    },
+    {
+      "time": "2026-06-27T18:53:58.110Z",
+      "players": 1,
+      "map": "Echo Run"
+    },
+    {
+      "time": "2026-06-27T18:54:58.128Z",
+      "players": 1,
+      "map": "Echo Run"
+    },
+    {
+      "time": "2026-06-27T18:55:58.254Z",
+      "players": 1,
+      "map": "Echo Run"
+    },
+    {
+      "time": "2026-06-27T18:56:58.262Z",
+      "players": 1,
+      "map": "Echo Run"
+    },
+    {
+      "time": "2026-06-27T18:57:58.212Z",
+      "players": 1,
+      "map": "Echo Run"
+    },
+    {
+      "time": "2026-06-27T18:58:58.186Z",
+      "players": 1,
+      "map": "Echo Run"
+    },
+    {
+      "time": "2026-06-27T18:59:58.242Z",
+      "players": 0,
+      "map": "Echo Run"
+    },
+    {
+      "time": "2026-06-27T19:00:58.193Z",
+      "players": 0,
+      "map": "Echo Run"
+    },
+    {
+      "time": "2026-06-27T19:01:58.257Z",
+      "players": 1,
+      "map": "Echo Run"
+    },
+    {
+      "time": "2026-06-27T19:03:15.525Z",
+      "players": 1,
+      "map": "Echo Run"
+    },
+    {
+      "time": "2026-06-27T19:04:15.186Z",
+      "players": 1,
+      "map": "Echo Run"
+    },
+    {
+      "time": "2026-06-27T19:05:15.657Z",
+      "players": 1,
+      "map": "Echo Run"
+    },
+    {
+      "time": "2026-06-27T19:06:15.268Z",
+      "players": 0,
+      "map": "Echo Run"
+    },
+    {
+      "time": "2026-06-27T19:08:42.892Z",
+      "players": 0,
+      "map": "Echo Run"
+    },
+    {
+      "time": "2026-06-27T19:09:42.990Z",
+      "players": 0,
+      "map": "Echo Run"
+    },
+    {
+      "time": "2026-06-27T19:10:42.858Z",
+      "players": 0,
+      "map": "Echo Run"
+    },
+    {
+      "time": "2026-06-27T19:11:42.958Z",
+      "players": 0,
+      "map": "Echo Run"
+    },
+    {
+      "time": "2026-06-27T19:12:42.968Z",
+      "players": 0,
+      "map": "Echo Run"
+    },
+    {
+      "time": "2026-06-27T19:13:42.946Z",
+      "players": 0,
+      "map": "Echo Run"
+    },
+    {
+      "time": "2026-06-27T19:14:42.940Z",
+      "players": 0,
+      "map": "Echo Run"
+    },
+    {
+      "time": "2026-06-27T19:15:43.078Z",
+      "players": 0,
+      "map": "Echo Run"
+    },
+    {
+      "time": "2026-06-27T19:16:43.070Z",
+      "players": 0,
+      "map": "Echo Run"
+    },
+    {
+      "time": "2026-06-27T19:17:42.965Z",
+      "players": 0,
+      "map": "Echo Run"
+    },
+    {
+      "time": "2026-06-27T19:20:01.892Z",
+      "players": 0,
+      "map": "Echo Run"
+    },
+    {
+      "time": "2026-06-27T19:21:01.843Z",
+      "players": 0,
+      "map": "Echo Run"
+    },
+    {
+      "time": "2026-06-27T19:22:01.908Z",
+      "players": 1,
+      "map": "Echo Run"
+    },
+    {
+      "time": "2026-06-27T19:23:01.804Z",
+      "players": 0,
+      "map": "Echo Run"
+    },
+    {
+      "time": "2026-06-27T19:24:01.895Z",
+      "players": 0,
+      "map": "Echo Run"
+    },
+    {
+      "time": "2026-06-27T19:25:01.911Z",
+      "players": 0,
+      "map": "Echo Run"
+    },
+    {
+      "time": "2026-06-27T19:28:02.037Z",
+      "players": 0,
+      "map": "Echo Run"
+    },
+    {
+      "time": "2026-06-27T19:29:01.943Z",
+      "players": 0,
+      "map": "Echo Run"
+    },
+    {
+      "time": "2026-06-27T19:30:02.110Z",
+      "players": 0,
+      "map": "Echo Run"
+    },
+    {
+      "time": "2026-06-27T19:31:01.870Z",
+      "players": 0,
+      "map": "Echo Run"
+    },
+    {
+      "time": "2026-06-27T19:32:01.942Z",
+      "players": 0,
+      "map": "Echo Run"
+    },
+    {
+      "time": "2026-06-27T19:33:02.036Z",
+      "players": 0,
+      "map": "Echo Run"
+    },
+    {
+      "time": "2026-06-27T19:34:01.955Z",
+      "players": 0,
+      "map": "Echo Run"
+    },
+    {
+      "time": "2026-06-27T19:35:02.192Z",
+      "players": 0,
+      "map": "Echo Run"
+    },
+    {
+      "time": "2026-06-27T19:36:02.114Z",
+      "players": 0,
+      "map": "Echo Run"
+    },
+    {
+      "time": "2026-06-27T19:37:02.033Z",
+      "players": 0,
+      "map": "Echo Run"
+    },
+    {
+      "time": "2026-06-27T19:38:02.831Z",
+      "players": 0,
+      "map": "Echo Run"
+    },
+    {
+      "time": "2026-06-27T19:39:02.036Z",
+      "players": 0,
+      "map": "Echo Run"
+    },
+    {
+      "time": "2026-06-27T19:40:02.065Z",
+      "players": 0,
+      "map": "Echo Run"
+    },
+    {
+      "time": "2026-06-27T19:41:02.040Z",
+      "players": 0,
+      "map": "Echo Run"
+    },
+    {
+      "time": "2026-06-27T19:42:02.009Z",
+      "players": 0,
+      "map": "Echo Run"
+    },
+    {
+      "time": "2026-06-27T19:43:02.091Z",
+      "players": 0,
+      "map": "Echo Run"
+    },
+    {
+      "time": "2026-06-27T19:44:02.132Z",
+      "players": 0,
+      "map": "Echo Run"
+    },
+    {
+      "time": "2026-06-27T19:45:01.994Z",
+      "players": 0,
+      "map": "Echo Run"
+    },
+    {
+      "time": "2026-06-27T19:46:02.071Z",
+      "players": 0,
+      "map": "Echo Run"
+    },
+    {
+      "time": "2026-06-27T19:47:02.103Z",
+      "players": 0,
+      "map": "Echo Run"
+    },
+    {
+      "time": "2026-06-27T19:48:02.265Z",
+      "players": 0,
+      "map": "Echo Run"
+    }
+  ],
+  "144.31.16.180:8309": [
+    {
+      "time": "2026-06-27T17:22:57.403Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:23:57.254Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:24:57.273Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:25:57.536Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:26:57.553Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:27:57.755Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:28:26.626Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:29:26.356Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:30:26.372Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:31:26.354Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:32:26.460Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:32:34.066Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:33:33.921Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:34:33.888Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:34:59.048Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:35:59.006Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:36:59.093Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:37:59.131Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:38:54.368Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:39:54.145Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:40:54.260Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:40:56.544Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:41:56.555Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:42:56.704Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:43:41.302Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:44:41.698Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:45:30.460Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:46:30.456Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:47:31.092Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:48:31.602Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:49:31.571Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:50:31.772Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:51:31.668Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:51:39.510Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:52:39.510Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:53:39.528Z",
+      "players": 1,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:54:39.584Z",
+      "players": 1,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:55:39.586Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:55:52.478Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:56:53.131Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:57:52.145Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:58:09.306Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T17:59:09.269Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:00:10.711Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:01:09.206Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:02:09.351Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:02:20.040Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:03:19.996Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:04:20.519Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:04:25.863Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:05:25.811Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:06:25.794Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:07:26.172Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:08:16.240Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:09:16.226Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:10:16.230Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:11:16.294Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:12:04.631Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:13:05.977Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:13:24.884Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:14:24.847Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:15:24.849Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:21:57.917Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:22:57.865Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:23:57.963Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:24:57.952Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:25:57.912Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:26:57.930Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:27:58.018Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:28:57.916Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:29:58.267Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:30:57.916Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:31:57.964Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:32:58.033Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:33:57.970Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:34:57.995Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:35:59.408Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:36:57.958Z",
+      "players": 0,
+      "map": "Fading Grove"
+    },
+    {
+      "time": "2026-06-27T18:37:58.075Z",
+      "players": 1,
+      "map": "run_mechanic"
+    },
+    {
+      "time": "2026-06-27T18:38:58.010Z",
+      "players": 1,
+      "map": "run_mechanic"
+    },
+    {
+      "time": "2026-06-27T18:39:58.023Z",
+      "players": 1,
+      "map": "run_mechanic"
+    },
+    {
+      "time": "2026-06-27T18:40:58.419Z",
+      "players": 1,
+      "map": "run_mechanic"
+    },
+    {
+      "time": "2026-06-27T18:41:58.087Z",
+      "players": 1,
+      "map": "run_mechanic"
+    },
+    {
+      "time": "2026-06-27T18:42:58.086Z",
+      "players": 1,
+      "map": "run_mechanic"
+    },
+    {
+      "time": "2026-06-27T18:44:04.061Z",
+      "players": 2,
+      "map": "run_mechanic"
+    },
+    {
+      "time": "2026-06-27T18:44:58.095Z",
+      "players": 1,
+      "map": "run_mechanic"
+    },
+    {
+      "time": "2026-06-27T18:45:58.135Z",
+      "players": 1,
+      "map": "run_mechanic"
+    },
+    {
+      "time": "2026-06-27T18:46:58.193Z",
+      "players": 0,
+      "map": "run_mechanic"
+    },
+    {
+      "time": "2026-06-27T18:47:58.133Z",
+      "players": 0,
+      "map": "run_mechanic"
+    },
+    {
+      "time": "2026-06-27T18:48:58.062Z",
+      "players": 0,
+      "map": "run_mechanic"
+    },
+    {
+      "time": "2026-06-27T18:49:58.080Z",
+      "players": 0,
+      "map": "run_mechanic"
+    },
+    {
+      "time": "2026-06-27T18:50:58.138Z",
+      "players": 0,
+      "map": "run_mechanic"
+    },
+    {
+      "time": "2026-06-27T18:51:58.260Z",
+      "players": 0,
+      "map": "run_mechanic"
+    },
+    {
+      "time": "2026-06-27T18:52:58.141Z",
+      "players": 0,
+      "map": "run_mechanic"
+    },
+    {
+      "time": "2026-06-27T18:53:58.110Z",
+      "players": 0,
+      "map": "run_mechanic"
+    },
+    {
+      "time": "2026-06-27T18:54:58.128Z",
+      "players": 1,
+      "map": "run_mechanic"
+    },
+    {
+      "time": "2026-06-27T18:55:58.254Z",
+      "players": 0,
+      "map": "run_mechanic"
+    },
+    {
+      "time": "2026-06-27T18:56:58.262Z",
+      "players": 0,
+      "map": "run_mechanic"
+    },
+    {
+      "time": "2026-06-27T18:57:58.212Z",
+      "players": 0,
+      "map": "run_mechanic"
+    },
+    {
+      "time": "2026-06-27T18:58:58.186Z",
+      "players": 0,
+      "map": "run_mechanic"
+    },
+    {
+      "time": "2026-06-27T18:59:58.242Z",
+      "players": 0,
+      "map": "run_mechanic"
+    },
+    {
+      "time": "2026-06-27T19:00:58.193Z",
+      "players": 0,
+      "map": "run_mechanic"
+    },
+    {
+      "time": "2026-06-27T19:01:58.257Z",
+      "players": 0,
+      "map": "run_mechanic"
+    },
+    {
+      "time": "2026-06-27T19:03:15.525Z",
+      "players": 0,
+      "map": "run_mechanic"
+    },
+    {
+      "time": "2026-06-27T19:04:15.186Z",
+      "players": 0,
+      "map": "run_mechanic"
+    },
+    {
+      "time": "2026-06-27T19:05:15.657Z",
+      "players": 0,
+      "map": "run_mechanic"
+    },
+    {
+      "time": "2026-06-27T19:06:15.268Z",
+      "players": 0,
+      "map": "run_mechanic"
+    },
+    {
+      "time": "2026-06-27T19:08:42.892Z",
+      "players": 0,
+      "map": "run_mechanic"
+    },
+    {
+      "time": "2026-06-27T19:09:42.990Z",
+      "players": 0,
+      "map": "run_mechanic"
+    },
+    {
+      "time": "2026-06-27T19:10:42.858Z",
+      "players": 0,
+      "map": "run_mechanic"
+    },
+    {
+      "time": "2026-06-27T19:11:42.958Z",
+      "players": 0,
+      "map": "run_mechanic"
+    },
+    {
+      "time": "2026-06-27T19:12:42.968Z",
+      "players": 0,
+      "map": "run_mechanic"
+    },
+    {
+      "time": "2026-06-27T19:13:42.946Z",
+      "players": 0,
+      "map": "run_mechanic"
+    },
+    {
+      "time": "2026-06-27T19:14:42.940Z",
+      "players": 0,
+      "map": "run_mechanic"
+    },
+    {
+      "time": "2026-06-27T19:15:43.078Z",
+      "players": 0,
+      "map": "run_mechanic"
+    },
+    {
+      "time": "2026-06-27T19:16:43.070Z",
+      "players": 0,
+      "map": "run_mechanic"
+    },
+    {
+      "time": "2026-06-27T19:17:42.965Z",
+      "players": 0,
+      "map": "run_mechanic"
+    },
+    {
+      "time": "2026-06-27T19:20:01.892Z",
+      "players": 0,
+      "map": "run_mechanic"
+    },
+    {
+      "time": "2026-06-27T19:21:01.843Z",
+      "players": 0,
+      "map": "run_mechanic"
+    },
+    {
+      "time": "2026-06-27T19:22:01.908Z",
+      "players": 0,
+      "map": "run_mechanic"
+    },
+    {
+      "time": "2026-06-27T19:23:01.804Z",
+      "players": 0,
+      "map": "run_mechanic"
+    },
+    {
+      "time": "2026-06-27T19:24:01.895Z",
+      "players": 0,
+      "map": "run_mechanic"
+    },
+    {
+      "time": "2026-06-27T19:25:01.911Z",
+      "players": 0,
+      "map": "run_mechanic"
+    },
+    {
+      "time": "2026-06-27T19:28:02.037Z",
+      "players": 0,
+      "map": "run_mechanic"
+    },
+    {
+      "time": "2026-06-27T19:29:01.943Z",
+      "players": 0,
+      "map": "run_mechanic"
+    },
+    {
+      "time": "2026-06-27T19:30:02.110Z",
+      "players": 0,
+      "map": "run_mechanic"
+    },
+    {
+      "time": "2026-06-27T19:31:01.870Z",
+      "players": 0,
+      "map": "run_mechanic"
+    },
+    {
+      "time": "2026-06-27T19:32:01.942Z",
+      "players": 0,
+      "map": "run_mechanic"
+    },
+    {
+      "time": "2026-06-27T19:33:02.036Z",
+      "players": 0,
+      "map": "run_mechanic"
+    },
+    {
+      "time": "2026-06-27T19:34:01.955Z",
+      "players": 0,
+      "map": "run_mechanic"
+    },
+    {
+      "time": "2026-06-27T19:35:02.192Z",
+      "players": 0,
+      "map": "run_mechanic"
+    },
+    {
+      "time": "2026-06-27T19:36:02.114Z",
+      "players": 0,
+      "map": "run_mechanic"
+    },
+    {
+      "time": "2026-06-27T19:37:02.033Z",
+      "players": 0,
+      "map": "run_mechanic"
+    },
+    {
+      "time": "2026-06-27T19:38:02.831Z",
+      "players": 0,
+      "map": "run_mechanic"
+    },
+    {
+      "time": "2026-06-27T19:39:02.036Z",
+      "players": 0,
+      "map": "run_mechanic"
+    },
+    {
+      "time": "2026-06-27T19:40:02.065Z",
+      "players": 0,
+      "map": "run_mechanic"
+    },
+    {
+      "time": "2026-06-27T19:41:02.040Z",
+      "players": 0,
+      "map": "run_mechanic"
+    },
+    {
+      "time": "2026-06-27T19:42:02.009Z",
+      "players": 0,
+      "map": "run_mechanic"
+    },
+    {
+      "time": "2026-06-27T19:43:02.091Z",
+      "players": 0,
+      "map": "run_mechanic"
+    },
+    {
+      "time": "2026-06-27T19:44:02.132Z",
+      "players": 0,
+      "map": "run_mechanic"
+    },
+    {
+      "time": "2026-06-27T19:45:01.994Z",
+      "players": 0,
+      "map": "run_mechanic"
+    },
+    {
+      "time": "2026-06-27T19:46:02.071Z",
+      "players": 0,
+      "map": "run_mechanic"
+    },
+    {
+      "time": "2026-06-27T19:47:02.103Z",
+      "players": 0,
+      "map": "run_mechanic"
+    },
+    {
+      "time": "2026-06-27T19:48:02.265Z",
+      "players": 0,
+      "map": "run_mechanic"
+    }
+  ],
+  "144.31.16.180:8310": [
+    {
+      "time": "2026-06-27T17:22:57.403Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T17:23:57.254Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T17:24:57.273Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T17:25:57.536Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T17:26:57.553Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T17:27:57.755Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T17:28:26.626Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T17:29:26.356Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T17:30:26.372Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T17:31:26.354Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T17:32:26.460Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T17:32:34.066Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T17:33:33.921Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T17:34:33.888Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T17:34:59.048Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T17:35:59.006Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T17:36:59.093Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T17:37:59.131Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T17:38:54.368Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T17:39:54.145Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T17:40:54.260Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T17:40:56.544Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T17:41:56.555Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T17:42:56.704Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T17:43:41.302Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T17:44:41.698Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T17:45:30.460Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T17:46:30.456Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T17:47:31.092Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T17:48:31.602Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T17:49:31.571Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T17:50:31.772Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T17:51:31.668Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T17:51:39.510Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T17:52:39.510Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T17:53:39.528Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T17:54:39.584Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T17:55:39.586Z",
+      "players": 2,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T17:55:52.478Z",
+      "players": 2,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T17:56:53.131Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T17:57:52.145Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T17:58:09.306Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T17:59:09.269Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T18:00:10.711Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T18:01:09.206Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T18:02:09.351Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T18:02:20.040Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T18:03:19.996Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T18:04:20.519Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T18:04:25.863Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T18:05:25.811Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T18:06:25.794Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T18:07:26.172Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T18:08:16.240Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T18:09:16.226Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T18:10:16.230Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T18:11:16.294Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T18:12:04.631Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T18:13:05.977Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T18:13:24.884Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T18:14:24.847Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T18:15:24.849Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T18:21:57.917Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T18:22:57.865Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T18:23:57.963Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T18:24:57.952Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T18:25:57.912Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T18:26:57.930Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T18:27:58.018Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T18:28:57.916Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T18:29:58.267Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T18:30:57.916Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T18:31:57.964Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T18:32:58.033Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T18:33:57.970Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T18:34:57.995Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T18:35:59.408Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T18:36:57.958Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T18:37:58.075Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T18:38:58.010Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T18:39:58.023Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T18:40:58.419Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T18:41:58.087Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T18:42:58.086Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T18:44:04.061Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T18:44:58.095Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T18:45:58.135Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T18:46:58.193Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T18:47:58.133Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T18:48:58.062Z",
+      "players": 2,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T18:49:58.080Z",
+      "players": 2,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T18:50:58.138Z",
+      "players": 2,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T18:51:58.260Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T18:52:58.141Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T18:53:58.110Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T18:54:58.128Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T18:55:58.254Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T18:56:58.262Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T18:57:58.212Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T18:58:58.186Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T18:59:58.242Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T19:00:58.193Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T19:01:58.257Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T19:03:15.525Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T19:04:15.186Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T19:05:15.657Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T19:06:15.268Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T19:08:42.892Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T19:09:42.990Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T19:10:42.858Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T19:11:42.958Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T19:12:42.968Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T19:13:42.946Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T19:14:42.940Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T19:15:43.078Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T19:16:43.070Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T19:17:42.965Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T19:20:01.892Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T19:21:01.843Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T19:22:01.908Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T19:23:01.804Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T19:24:01.895Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T19:25:01.911Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T19:28:02.037Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T19:29:01.943Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T19:30:02.110Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T19:31:01.870Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T19:32:01.942Z",
+      "players": 1,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T19:33:02.036Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T19:34:01.955Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T19:35:02.192Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T19:36:02.114Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T19:37:02.033Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T19:38:02.831Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T19:39:02.036Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T19:40:02.065Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T19:41:02.040Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T19:42:02.009Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T19:43:02.091Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T19:44:02.132Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T19:45:01.994Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T19:46:02.071Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T19:47:02.103Z",
+      "players": 0,
+      "map": "Dummy Map"
+    },
+    {
+      "time": "2026-06-27T19:48:02.265Z",
+      "players": 0,
+      "map": "Dummy Map"
+    }
+  ],
+  "144.31.16.180:8319": [
+    {
+      "time": "2026-06-27T17:22:57.403Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T17:23:57.254Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T17:24:57.273Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T17:25:57.536Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T17:26:57.553Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T17:27:57.755Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T17:28:26.626Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T17:29:26.356Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T17:30:26.372Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T17:31:26.354Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T17:32:26.460Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T17:32:34.066Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T17:33:33.921Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T17:34:33.888Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T17:34:59.048Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T17:35:59.006Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T17:36:59.093Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T17:37:59.131Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T17:38:54.368Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T17:39:54.145Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T17:40:54.260Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T17:40:56.544Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T17:41:56.555Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T17:42:56.704Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T17:43:41.302Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T17:44:41.698Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T17:45:30.460Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T17:46:30.456Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T17:47:31.092Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T17:48:31.602Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T17:49:31.571Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T17:50:31.772Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T17:51:31.668Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T17:51:39.510Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T17:52:39.510Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T17:53:39.528Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T17:54:39.584Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T17:55:39.586Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T17:55:52.478Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T17:56:53.131Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T17:57:52.145Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T17:58:09.306Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T17:59:09.269Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T18:00:10.711Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T18:01:09.206Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T18:02:09.351Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T18:02:20.040Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T18:03:19.996Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T18:04:20.519Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T18:04:25.863Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T18:05:25.811Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T18:06:25.794Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T18:07:26.172Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T18:08:16.240Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T18:09:16.226Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T18:10:16.230Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T18:11:16.294Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T18:12:04.631Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T18:13:05.977Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T18:13:24.884Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T18:14:24.847Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T18:15:24.849Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T18:21:57.917Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T18:22:57.865Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T18:23:57.963Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T18:24:57.952Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T18:25:57.912Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T18:26:57.930Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T18:27:58.018Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T18:28:57.916Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T18:29:58.267Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T18:30:57.916Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T18:31:57.964Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T18:32:58.033Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T18:33:57.970Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T18:34:57.995Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T18:35:59.408Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T18:36:57.958Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T18:37:58.075Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T18:38:58.010Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T18:39:58.023Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T18:40:58.419Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T18:41:58.087Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T18:42:58.086Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T18:44:04.061Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T18:44:58.095Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T18:45:58.135Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T18:46:58.193Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T18:47:58.133Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T18:48:58.062Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T18:49:58.080Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T18:50:58.138Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T18:51:58.260Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T18:52:58.141Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T18:53:58.110Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T18:54:58.128Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T18:55:58.254Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T18:56:58.262Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T18:57:58.212Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T18:58:58.186Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T18:59:58.242Z",
+      "players": 1,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T19:00:58.193Z",
+      "players": 1,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T19:01:58.257Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T19:03:15.525Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T19:04:15.186Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T19:05:15.657Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T19:06:15.268Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T19:08:42.892Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T19:09:42.990Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T19:10:42.858Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T19:11:42.958Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T19:12:42.968Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T19:13:42.946Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T19:14:42.940Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T19:15:43.078Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T19:16:43.070Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T19:17:42.965Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T19:20:01.892Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T19:21:01.843Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T19:22:01.908Z",
+      "players": 0,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T19:23:01.804Z",
+      "players": 1,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T19:24:01.895Z",
+      "players": 1,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T19:25:01.911Z",
+      "players": 1,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T19:28:02.037Z",
+      "players": 1,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T19:29:01.943Z",
+      "players": 1,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T19:30:02.110Z",
+      "players": 1,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T19:31:01.870Z",
+      "players": 1,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T19:32:01.942Z",
+      "players": 1,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T19:33:02.036Z",
+      "players": 1,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T19:34:01.955Z",
+      "players": 1,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T19:35:02.192Z",
+      "players": 1,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T19:36:02.114Z",
+      "players": 1,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T19:37:02.033Z",
+      "players": 1,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T19:38:02.831Z",
+      "players": 1,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T19:39:02.036Z",
+      "players": 1,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T19:40:02.065Z",
+      "players": 1,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T19:41:02.040Z",
+      "players": 1,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T19:42:02.009Z",
+      "players": 1,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T19:43:02.091Z",
+      "players": 1,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T19:44:02.132Z",
+      "players": 1,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T19:45:01.994Z",
+      "players": 1,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T19:46:02.071Z",
+      "players": 1,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T19:47:02.103Z",
+      "players": 1,
+      "map": "shotgun tex 3"
+    },
+    {
+      "time": "2026-06-27T19:48:02.265Z",
+      "players": 1,
+      "map": "shotgun tex 3"
+    }
+  ],
+  "144.31.16.180:8320": [
+    {
+      "time": "2026-06-27T17:22:57.403Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T17:23:57.254Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T17:24:57.273Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T17:25:57.536Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T17:26:57.553Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T17:27:57.755Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T17:28:26.626Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T17:29:26.356Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T17:30:26.372Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T17:31:26.354Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T17:32:26.460Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T17:32:34.066Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T17:33:33.921Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T17:34:33.888Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T17:34:59.048Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T17:35:59.006Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T17:36:59.093Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T17:37:59.131Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T17:38:54.368Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T17:39:54.145Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T17:40:54.260Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T17:40:56.544Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T17:41:56.555Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T17:42:56.704Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T17:43:41.302Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T17:44:41.698Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T17:45:30.460Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T17:46:30.456Z",
+      "players": 1,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T17:47:31.092Z",
+      "players": 1,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T17:48:31.602Z",
+      "players": 1,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T17:49:31.571Z",
+      "players": 1,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T17:50:31.772Z",
+      "players": 2,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T17:51:31.668Z",
+      "players": 1,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T17:51:39.510Z",
+      "players": 1,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T17:52:39.510Z",
+      "players": 1,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T17:53:39.528Z",
+      "players": 1,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T17:54:39.584Z",
+      "players": 1,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T17:55:39.586Z",
+      "players": 1,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T17:55:52.478Z",
+      "players": 1,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T17:56:53.131Z",
+      "players": 1,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T17:57:52.145Z",
+      "players": 1,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T17:58:09.306Z",
+      "players": 1,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T17:59:09.269Z",
+      "players": 1,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T18:00:10.711Z",
+      "players": 1,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T18:01:09.206Z",
+      "players": 1,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T18:02:09.351Z",
+      "players": 1,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T18:02:20.040Z",
+      "players": 1,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T18:03:19.996Z",
+      "players": 1,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T18:04:20.519Z",
+      "players": 1,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T18:04:25.863Z",
+      "players": 1,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T18:05:25.811Z",
+      "players": 1,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T18:06:25.794Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T18:07:26.172Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T18:08:16.240Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T18:09:16.226Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T18:10:16.230Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T18:11:16.294Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T18:12:04.631Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T18:13:05.977Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T18:13:24.884Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T18:14:24.847Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T18:15:24.849Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T18:21:57.917Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T18:22:57.865Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T18:23:57.963Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T18:24:57.952Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T18:25:57.912Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T18:26:57.930Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T18:27:58.018Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T18:28:57.916Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T18:29:58.267Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T18:30:57.916Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T18:31:57.964Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T18:32:58.033Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T18:33:57.970Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T18:34:57.995Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T18:35:59.408Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T18:36:57.958Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T18:37:58.075Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T18:38:58.010Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T18:39:58.023Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T18:40:58.419Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T18:41:58.087Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T18:42:58.086Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T18:44:04.061Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T18:44:58.095Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T18:45:58.135Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T18:46:58.193Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T18:47:58.133Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T18:48:58.062Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T18:49:58.080Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T18:50:58.138Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T18:51:58.260Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T18:52:58.141Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T18:53:58.110Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T18:54:58.128Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T18:55:58.254Z",
+      "players": 1,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T18:56:58.262Z",
+      "players": 1,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T18:57:58.212Z",
+      "players": 1,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T18:58:58.186Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T18:59:58.242Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T19:00:58.193Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T19:01:58.257Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T19:03:15.525Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T19:04:15.186Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T19:05:15.657Z",
+      "players": 1,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T19:06:15.268Z",
+      "players": 2,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T19:08:42.892Z",
+      "players": 2,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T19:09:42.990Z",
+      "players": 2,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T19:10:42.858Z",
+      "players": 2,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T19:11:42.958Z",
+      "players": 1,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T19:12:42.968Z",
+      "players": 2,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T19:13:42.946Z",
+      "players": 2,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T19:14:42.940Z",
+      "players": 2,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T19:15:43.078Z",
+      "players": 2,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T19:16:43.070Z",
+      "players": 2,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T19:17:42.965Z",
+      "players": 2,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T19:20:01.892Z",
+      "players": 2,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T19:21:01.843Z",
+      "players": 1,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T19:22:01.908Z",
+      "players": 1,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T19:23:01.804Z",
+      "players": 1,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T19:24:01.895Z",
+      "players": 1,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T19:25:01.911Z",
+      "players": 1,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T19:28:02.037Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T19:29:01.943Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T19:30:02.110Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T19:31:01.870Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T19:32:01.942Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T19:33:02.036Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T19:34:01.955Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T19:35:02.192Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T19:36:02.114Z",
+      "players": 1,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T19:37:02.033Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T19:38:02.831Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T19:39:02.036Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T19:40:02.065Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T19:41:02.040Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T19:42:02.009Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T19:43:02.091Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T19:44:02.132Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T19:45:01.994Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T19:46:02.071Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T19:47:02.103Z",
+      "players": 0,
+      "map": "blue_linear"
+    },
+    {
+      "time": "2026-06-27T19:48:02.265Z",
+      "players": 1,
+      "map": "blue_linear"
+    }
+  ]
+}

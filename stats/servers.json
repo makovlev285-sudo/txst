@@ -1,0 +1,62 @@
+[
+  {
+    "id": "solo",
+    "name": "texnonik GER - solo server",
+    "host": "144.31.16.180",
+    "port": 8303
+  },
+  {
+    "id": "race-1",
+    "name": "texnonik GER - race server #1",
+    "host": "144.31.16.180",
+    "port": 8304
+  },
+  {
+    "id": "race-2",
+    "name": "texnonik GER - race server #2",
+    "host": "144.31.16.180",
+    "port": 8305
+  },
+  {
+    "id": "race-3",
+    "name": "texnonik GER - race server #3",
+    "host": "144.31.16.180",
+    "port": 8306
+  },
+  {
+    "id": "coop",
+    "name": "texnonik GER - coop server",
+    "host": "144.31.16.180",
+    "port": 8307
+  },
+  {
+    "id": "race-4",
+    "name": "texnonik GER - race server #4",
+    "host": "144.31.16.180",
+    "port": 8308
+  },
+  {
+    "id": "race-5",
+    "name": "texnonik GER - race server #5",
+    "host": "144.31.16.180",
+    "port": 8309
+  },
+  {
+    "id": "dummy",
+    "name": "texnonik GER - dummy server",
+    "host": "144.31.16.180",
+    "port": 8310
+  },
+  {
+    "id": "linear",
+    "name": "texnonik GER - linear with rocket",
+    "host": "144.31.16.180",
+    "port": 8319
+  },
+  {
+    "id": "blue-linear",
+    "name": "texnonik GER - blue linear with rocket",
+    "host": "144.31.16.180",
+    "port": 8320
+  }
+]
